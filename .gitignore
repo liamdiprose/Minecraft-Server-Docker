@@ -1,1 +1,9 @@
 minecraft_server.1.14.3.jar
+minecraft-data/banned-ips.json
+minecraft-data/banned-players.json
+minecraft-data/logs/
+minecraft-data/ops.json
+minecraft-data/server.properties
+minecraft-data/usercache.json
+minecraft-data/whitelist.json
+minecraft-data/world/
