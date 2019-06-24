@@ -1,6 +1,5 @@
 FROM openjdk:13-ea-alpine3.9
 
-CMD mkdir /minecaft
 COPY minecraft_server.1.14.3.jar /minecraft/
 
 VOLUME /minecraft_data
